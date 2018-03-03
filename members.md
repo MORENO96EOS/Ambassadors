@@ -193,6 +193,8 @@ I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and 
 
 # Jan Langheimer (Toronto, ON)
 
+<img src="https://pbs.twimg.com/profile_images/943726591745581056/dkzuBGFx_400x400.jpg" height="150px" width="150px" />
+
 ## Role
 
 +  ⭐️ EOS Toronto Meetup Co-Host 
