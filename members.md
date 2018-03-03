@@ -194,7 +194,7 @@ I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and 
 ## Role
 
 +  ⭐️ EOS Toronto Meetup Co-Host 
-+  [EOSindex.io](https://eosindex.io) Founder
++  ⭐️ [EOSindex.io](https://eosindex.io) Founder
 
 ## SocialMedia
 
