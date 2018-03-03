@@ -160,7 +160,7 @@ To be completed
 ### Role
 
 - Community Engagement
-- ⭐️EOS Meetup Organizer (Toronto)
+- ⭐️EOS Meetup Organizer ([EOS Toronto](http://meetup.com/eos-toronto/))
 
 ### Social Media
 
@@ -187,4 +187,4 @@ In my free time, I like to learn about Austrian Economics, technology (especiall
 
 Like our friend Dan Larimer, I’d like to dedicate myself to creating free market solutions to secure life, liberty and property.
 
-I recently started the EOS Toronto meetup group and have been working with bluejays from EOS Go and some others to make that grow.</p>
+I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and have been working with bluejays from EOS Go and some others to grow that community.</p>
