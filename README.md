@@ -25,12 +25,12 @@ Applicants will have to forgo a public review process by the EOS Nation communit
 
 A list of the active members of EOS Nation.
 
-- [Denis Carriere](members/#denis-carriere)
-- [Vincent Grenier](members/#vincent-grenier)
-- [Lenny Goudreault](members/#lenny-goudreault)
-- [Stephane Bisson](members/#stephane-bisson)
-- [Yves La Rose](members/#yves-la-rose)
-- [Jean Carriere](members/#jean-carriere)
-- [Dave Rex](members/#dave-rex)
-- [Alexandre Bourget](members/#alexandre-bourget)
-- [Daniel Keyes](members/#daniel-keyes)
+- [Denis Carriere](members.md#denis-carriere)
+- [Vincent Grenier](members.md#vincent-grenier)
+- [Lenny Goudreault](members.md#lenny-goudreault)
+- [Stephane Bisson](members.md#stephane-bisson)
+- [Yves La Rose](members.md#yves-la-rose)
+- [Jean Carriere](members.md#jean-carriere)
+- [Dave Rex](members.md#dave-rex)
+- [Alexandre Bourget](members.md#alexandre-bourget)
+- [Daniel Keyes](members.md#daniel-keyes)
