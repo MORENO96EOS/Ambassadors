@@ -117,7 +117,7 @@
   - [Telegram](https://t.me/chillsauce)
 
 - **Bio**
-Born, raised and living in Toronto.
+-Born, raised and living in Toronto.
 Earned a Bachelor of Journalism from Ryerson University in 2009.
 
 Woken out of slumber during an LSD trip in university, inspired to live a life dedicated to the values of Truth, Love, and Freedom. Like a lonely leaf on a branch suddenly discovering I’m attached to a beautiful tree.
