@@ -91,7 +91,7 @@
 
 ### Alexandre Bourget
 
-<img src="https://user-images.githubusercontent.com/550895/36930188-184f07b0-1e6a-11e8-8b73-3b23887e5a05.png" height="150px" width="150px" />
+<img src="https://avatars0.githubusercontent.com/u/93424?s=400&v=4" height="150px" width="150px" />
 
 - **Role**
   - BP Infrastructure
