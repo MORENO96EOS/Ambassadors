@@ -30,15 +30,15 @@ Candidates will have to forgo a public review process of their social media prof
 
 A list of the active members of EOS Nation.
 
-- [Denis Carriere](members.md#denis-carriere)
-- [Vincent Grenier](members.md#vincent-grenier)
-- [Lenny Goudreault](members.md#lenny-goudreault)
-- [Stephane Bisson](members.md#stephane-bisson)
-- [Yves La Rose](members.md#yves-la-rose)
-- [Jean Carriere](members.md#jean-carriere)
-- [Dave Rex](members.md#dave-rex)
-- [Alexandre Bourget](members.md#alexandre-bourget)
-- [Daniel Keyes](members.md#daniel-keyes)
-
+- [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
+- [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
+- [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
+- [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
+- [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
+- [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
+- [Dave Rex](members.md#dave-rex) (USA)
+- [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
+- [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
+- [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
 
 [join]: https://github.com/EOS-Nation/members/issues/new
