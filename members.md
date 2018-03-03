@@ -107,6 +107,16 @@
 
 <img src="https://user-images.githubusercontent.com/550895/36930188-184f07b0-1e6a-11e8-8b73-3b23887e5a05.png" height="150px" width="150px" />
 
+- **Role**
+  - ⭐️EOS Meetup Organizer (Toronto)
+- **Social Media**
+  - [Steemit](https://steemit.com/@chillsauce)
+  - [LinkedIn](https://www.linkedin.com/in/daniel-keyes/)
+  - [Twitter](https://twitter.com/daniel_keyes)
+  - [GitHub](https://github.com/chillsauce)
+  - [Telegram](https://t.me/chillsauce)
+
+- **Bio**
 Born, raised and living in Toronto.
 Earned a Bachelor of Journalism from Ryerson University in 2009.
 
@@ -116,19 +126,10 @@ Worked briefly as a chase producer for Global TV.
 
 Been working in Financial Technology for the past 10 years in various capacities: customer service, sales, sales coaching, agent training, digital marketing, digital process management (LEAN green belt), and digital messaging product management (certified scrum master, certified product owner). At work I'm known for my customer focus, technology expertise, relationship building skills, and ability to bring those together to design great digital customer experiences.
 
-I was briefly director of operations and marketing at a blockchain consulting firm, but I walked away because I wasn’t a fan of the direction they were heading in (they started specializing in private ledgers when we realized you can’t do shit on ETH - that's when I started looking for opportunities in the EOS community).
+I was briefly director of operations and marketing at a blockchain consulting firm, but I walked away because I wasn’t a fan of the private ledger direction they were heading in. (Ethereum wasn't able to satisfy any practical business use cases - that's when I started looking for opportunities in the EOS community).
 
-In my free time, I spend a lot of time learning about Austrian Economics, technology (especially blockchain), and the philosophy of ethics. I'm by no means a developer, but I have some aptitude for coding. I coded my first website by hand in the 7th grade on a hand-me-down Mac clone. I've since lost touch with my HTML skills, but have some pretty mean wordpress game. I've dabbled with SQL at work, and have recently started learning C++.
+In my free time, I like to learn about Austrian Economics, technology (especially blockchain), and the philosophy of ethics. I enjoy time with my thoughts in nature, as well as making genuine connections with my community. I'm by no means a developer, but I have some aptitude for coding. I coded my first website in the 7th grade on a hand-me-down Mac clone. I've since lost touch with my HTML skills, but have some pretty mean wordpress game. I've dabbled with SQL at work, and have recently started learning C++.
 
 Like our friend Dan Larimer, I’d like to dedicate myself to creating free market solutions to secure life, liberty and property.
 
-I recently started the EOS Toronto meetup group and have been working with bluejays from EOS Go and some others to make that grow. I only started it about a week ago and we already have over 100 members and had our first meetup yesterday.
-
-- **Role**
-  - ⭐️EOS Meetup Organizer (Toronto)
-- **Social Media**
-  - [Steemit](https://steemit.com/@DenisCarriere)
-  - LinkedIn
-  - Twitter
-  - [GitHub](https://github.com/chillsauce)
-  - [Telegram](https://t.me/chillsauce)
+I recently started the EOS Toronto meetup group and have been working with bluejays from EOS Go and some others to make that grow.
