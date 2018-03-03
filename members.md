@@ -1,7 +1,9 @@
 
 # Members
 
-## Denis Carriere
+A list of active EOS Nation members.
+
+## Denis Carriere (Ottawa, ON)
 
 <img src="https://avatars2.githubusercontent.com/u/550895?s=460&v=4" height="150px" width="150px" />
 
@@ -24,7 +26,7 @@
 
 To be completed
 
-## Vincent Grenier
+## Vincent Grenier (Sherbrooke, QC)
 
 <img src="https://media.licdn.com/dms/image/C4E03AQEKt_te86ErJQ/profile-displayphoto-shrink_200_200/0?e=1525230000&v=alpha&t=_mr2eeL-YAc5rktXo65iv1hwW887ydjOH0XkINMGgpc" height="150px" width="150px" />
 
@@ -46,7 +48,7 @@ To be completed
 
 To be completed
 
-## Lenny Goudreault
+## Lenny Goudreault (Gatineau, QC)
 
 <img src="https://avatars0.githubusercontent.com/u/36977068?s=460&v=4" height="150px" width="150px" />
 
@@ -67,7 +69,7 @@ To be completed
 
 To be completed
 
-## Stephane Bisson
+## Stephane Bisson (Montreal, QC)
 
 <img src="https://scontent.fyto1-1.fna.fbcdn.net/v/t1.0-1/p480x480/14485087_10157552985615022_4331675997856145638_n.jpg?oh=483ad5d3246f2660d1da416759316562&oe=5B3F2C7F" height="150px" width="150px" />
 
@@ -88,7 +90,7 @@ To be completed
 
 To be completed
 
-## Yves La Rose
+## Yves La Rose (Ottawa, ON)
 
 <img src="https://user-images.githubusercontent.com/550895/36930171-b4843868-1e69-11e8-9a62-ccce113534de.png" height="150px" width="150px" />
 
@@ -110,7 +112,7 @@ To be completed
 
 To be completed
 
-## Jean Carriere
+## Jean Carriere (Toronto, ON)
 
 <img src="https://avatars0.githubusercontent.com/u/11860891?s=460&v=4" height="150px" width="150px" />
 
@@ -131,7 +133,7 @@ To be completed
 
 To be completed
 
-### Alexandre Bourget
+### Alexandre Bourget (Montreal, QC)
 
 <img src="https://avatars0.githubusercontent.com/u/93424?s=400&v=4" height="150px" width="150px" />
 
@@ -153,7 +155,7 @@ To be completed
 
 To be completed
 
-## Daniel Keyes
+## Daniel Keyes (Toronto, ON)
 
 <img src="https://user-images.githubusercontent.com/550895/36930188-184f07b0-1e6a-11e8-8b73-3b23887e5a05.png" height="150px" width="150px" />
 
@@ -189,7 +191,7 @@ Like our friend Dan Larimer, I’d like to dedicate myself to creating free mark
 
 I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and have been working with bluejays from EOS Go and some others to grow that community.</p>
 
-# Jan Langheimer
+# Jan Langheimer (Toronto, ON)
 
 ## Role
 
