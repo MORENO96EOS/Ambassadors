@@ -14,7 +14,7 @@ A list of active EOS Nation members.
 - ⭐️DApps Team
 - Technology
 - EOS Meetup Host (Ottawa)
-- Spokesman
+- EOS Nation Spokesman
 
 ### Social Media
 
