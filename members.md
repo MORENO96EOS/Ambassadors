@@ -12,6 +12,7 @@ A list of active EOS Nation members.
 
 - ⭐️BP Infrastructure
 - ⭐️DApps Team
+- Technology
 - EOS Meetup Host (Ottawa)
 - Spokesman
 
@@ -34,9 +35,9 @@ To be completed
 
 ### Role
 
-- ⭐️Community Engagement
 - ⭐️Event planning
 - ⭐️VC
+- Community Engagement
 
 #### Social Media
 
@@ -57,8 +58,8 @@ To be completed
 
 ### Role
 
-- Community Engagement
-- Event planning
+- ⭐️Community Engagement
+- ⭐️Event planning
 
 ### Social Media
 
@@ -80,7 +81,7 @@ To be completed
 ### Role
 
 - ⭐️Social Media
-- Marketing
+- ⭐️Marketing
 
 ### Social Media
 
@@ -124,8 +125,8 @@ To be completed
 
 ### Role
 
-- Spokesman
-- Technology
+- ⭐️Spokesman
+- ⭐️Technology
 
 ### Social Media
 
@@ -146,9 +147,9 @@ To be completed
 
 ### Role
 
+- ⭐️DApps Team
+- ⭐️Technology
 - BP Infrastructure
-- DApps Team
-- Technology
 
 ### Social Media
 
@@ -169,7 +170,7 @@ To be completed
 
 ### Role
 
-- Community Engagement
+- ⭐️Community Engagement
 - ⭐️EOS Meetup Organizer ([EOS Toronto](http://meetup.com/eos-toronto/))
 
 ### Social Media
@@ -229,6 +230,7 @@ Born and raised in Germany. In Toronto since 2016. Web Developer. Ethereum Miner
 ### Role
 
 - ⭐️ Facebook EOS Nation (Admin)
+- ⭐️ Community Engagement
 
 ### SocialMedia
 
