@@ -191,16 +191,16 @@ Like our friend Dan Larimer, I’d like to dedicate myself to creating free mark
 
 I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and have been working with bluejays from EOS Go and some others to grow that community.</p>
 
-# Jan Langheimer (Toronto, ON)
+## Jan Langheimer (Toronto, ON)
 
 <img src="https://pbs.twimg.com/profile_images/943726591745581056/dkzuBGFx_400x400.jpg" height="150px" width="150px" />
 
-## Role
+### Role
 
-+  ⭐️ EOS Toronto Meetup Co-Host 
-+  ⭐️ [EOSindex.io](https://eosindex.io) Founder
+- ⭐️ EOS Toronto Meetup Co-Host 
+- ⭐️ [EOSindex.io](https://eosindex.io) Founder
 
-## SocialMedia
+### SocialMedia
 
 - Steemit
 - LinkedIn
@@ -208,6 +208,26 @@ I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and 
 - [GitHub](https://github.com/pingustar)
 - [Telegram](https://t.me/pinguSTAR)
 
-## Bio
+### Bio
 
 Born and raised in Germany. In Toronto since 2016. Web Developer. Ethereum Miner. DevOps. EOS Fanboy.
+
+## Dave Rex (Texas, USA)
+
+<img src="https://user-images.githubusercontent.com/550895/36947657-27bcdd06-1f9d-11e8-913b-abd1a5d32ac6.png" height="150px" width="150px" />
+
+### Role
+
+- ⭐️ Facebook EOS Nation (Admin)
+
+### SocialMedia
+
+- Steemit
+- LinkedIn
+- Twitter
+- GitHub
+- Telegram
+
+### Bio
+
+To be completed
