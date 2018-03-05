@@ -51,6 +51,5 @@ After EOS launches (June 2018), EOS Nation will conduct an election for their "e
 - [David Requenez](members.md#david-requenez) (Texas, USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
-- [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
 
 [join]: https://github.com/EOS-Nation/members/issues/new
