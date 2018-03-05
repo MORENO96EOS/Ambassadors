@@ -111,7 +111,6 @@ To be completed
 
 ### Social Media
 
-- Steemit
 - [LinkedIn](https://www.linkedin.com/in/yves-la-rose-41669034/)
 - [Twitter](https://twitter.com/YBNormlJapan)
 - [GitHub](https://github.com/YvesLaRose)
