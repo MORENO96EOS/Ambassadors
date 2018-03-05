@@ -48,7 +48,7 @@ After EOS launches (June 2018), EOS Nation will conduct an election for their "e
 > Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
 
 - [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
-- [Dave Rex](members.md#dave-rex) (Texas, USA)
+- [David Requenez](members.md#david-requenez) (Texas, USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
 - [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
