@@ -26,7 +26,7 @@ A list of active EOS Nation members.
 
 ### Bio
 
-Denis is a full-stack web & GIS developer and who is a strong advocate for open source software & open data, he lives and breaths open source with over [4,800+ GitHub commits](https://github.com/DenisCarriere) only in this year.
+Denis is a full-stack web & GIS developer and is a strong advocate for open source software & open data, he lives and breaths open source with over [4,800+ GitHub commits](https://github.com/DenisCarriere) this year alone.
 Currently he is the one of core developers for [TurfJS](https://github.com/Turfjs/turf) (Advanced geospatial analysis for browsers and Node.js) and a developer for [SharedStreets.io](https://sharedstreets.io) (A shared language for the world's streets).
 On his downtime, he is the event organizer for [OpenStreetMap](https://www.meetup.com/openstreetmap-ottawa) & [EOS in Ottawa](https://www.meetup.com/EOS-Nation) & travels internationally/locally attending technology conferences.
 
@@ -51,7 +51,7 @@ On his downtime, he is the event organizer for [OpenStreetMap](https://www.meetu
 
 ### Bio
 
-Vincent, eat, sleeps and breathes EOS. Although he works as a Structural Engineer full time, he listens to EOS and Crypto content while working and during his spare time. He is incredibly enthusiastic about the project and the future it will bring. 
+Vincent, east, sleeps and breathes EOS. Although he works as a Structural Engineer full-time, he listens to EOS and Crypto content while working and during his spare time. He is incredibly enthusiastic about the project and the future it will bring. 
 His mission is to help as much as he can to fulfill Dan Larimer’s vision of a new society. His goal is to make a difference in this new ecosystem by educating people about EOS by creating EOS meetups and speaking about EOS at conferences.
 
 ## Lenny Goudreault
@@ -119,7 +119,7 @@ To be completed
 
 ### Bio
 
-To be completed
+Eat, sleep, crypto. Like many others on the EOS Nation team, Yves is passionate about crypto and the future that EOS will bring. Yves has been focusing on EOS full-time since early January 2018. Yves began his journey into computers at a very young age, building his first computer at 6 years old. Yves has always had a deep ideological relationship with computers and their role in a decentralized future. Yves began his university studies in software engineering, but quickly realized the human aspect was where his heart resided. After completing studies in psychology and pure sciences, Yves bridged the gap by focusing on perceptual and computational neuropsychology. In his professional life, Yves brings his background to organizations looking to create autonomous efficiencies and effectivness to processes using technology. When Yves isn't in front of his computer, he is an avid reader, a lover of the outdoors - some of you may have crossed Yves on one of his many backountry expeditions - and a world traveller. Yves is fluent in Japanese having spent the early part of his formative adult years living in Japan. 
 
 ## Jean Carriere
 ### Toronto, ON
