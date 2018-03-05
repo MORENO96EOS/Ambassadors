@@ -26,7 +26,9 @@ A list of active EOS Nation members.
 
 ### Bio
 
-To be completed
+Denis is a full-stack web & GIS developer and who is a strong advocate for open source software & open data, he lives and breaths open source with over 4,800+ GitHub commits only in this year.
+Currently he is the one of core developers for [TurfJS](https://github.com/Turfjs/turf) (Advanced geospatial analysis for browsers and Node.js) and a developer for [SharedStreets.io](https://sharedstreets.io) (A shared language for the world's streets).
+On his downtime, he is the event organizer for [OpenStreetMap](https://www.meetup.com/openstreetmap-ottawa) & [EOS in Ottawa](https://www.meetup.com/EOS-Nation) & travels internationally/locally attending technology conferences.
 
 ## Vincent Grenier
 ### Sherbrooke, QC
