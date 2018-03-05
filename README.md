@@ -32,12 +32,12 @@ Candidates will have to forgo a public review process of their social media prof
 - [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
 - [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
 - [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
+- [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
 - [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
 
 ## Active Members
 
 - [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
-- [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
 - [Dave Rex](members.md#dave-rex) (USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
