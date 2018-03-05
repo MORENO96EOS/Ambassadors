@@ -26,18 +26,19 @@ Candidates will have to forgo a public review process of their social media prof
   
 **[Join the team][join]**
 
-## Active Members
-
-A list of the active members of EOS Nation.
+## Launch Team
 
 - [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
+- [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
+- [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
 - [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
+- [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
+
+## Active Members
+
 - [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
 - [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
-- [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
-- [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
 - [Dave Rex](members.md#dave-rex) (USA)
-- [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
 
