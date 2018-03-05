@@ -8,7 +8,8 @@ Applicants will have to forgo a public review process by the EOS Nation communit
 - [ ] Headshot image
 - [ ] Bio (Description of yourself)
 - [ ] Proposed Role
-- [ ] Social Media Accounts
+- [ ] Social Media Accounts (Optional)
+  - [ ] Facebook
   - [ ] Steemit
   - [ ] LinkedIn
   - [ ] Twitter
