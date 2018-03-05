@@ -225,34 +225,3 @@ I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and 
 ### Bio
 
 Born and raised in Germany. In Toronto since 2016. Web Developer. Ethereum Miner. DevOps. EOS Fanboy.
-
-## Alexandre Bourget
-### Montreal, QC
-
-<img src="https://avatars0.githubusercontent.com/u/93424?s=400&v=4" height="150px" width="150px" />
-
-### Role
-
-- DApps Team
-- Technology
-- BP Infrastructure
-
-### Social Media
-
-- Steemit
-- [LinkedIn](https://www.linkedin.com/in/alexandrebourget/)
-- [Twitter](https://twitter.com/bourgetalexndre)
-- [GitHub](https://github.com/abourget)
-- Telegram
-
-### Bio
-
-Passionate full-stack developer. Loves Go, taught Python for many years. 
-
-Much of my last work involved data, building data products and infrastructures. Making it useful to people around. Worked with Python, pandas and friends, Go data science tools. I love building tools for fellow developers.
-
-I love deploying Kubernetes and administering clusters and after studying all options, I used bootkube, terraform, EC2 and GCP last time I kickstarted new clusters.
-
-I have fine eyes for details, both at macro and micro levels. I appreciate work well done.
-
-I love automation. I automate anything I do for the third time. I can't live without continuous deployment, A/B testing and feature switches. I don't do what machines can do.
