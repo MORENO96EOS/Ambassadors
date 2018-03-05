@@ -17,7 +17,7 @@ Candidates will have to forgo a public review process of their social media prof
 - [ ] Headshot image
 - [ ] Bio (Description of yourself)
 - [ ] Proposed Role
-- [ ] Social Media Accounts
+- [ ] Social Media Accounts (optional)
   - [ ] Facebook
   - [ ] Steemit
   - [ ] LinkedIn
@@ -27,18 +27,28 @@ Candidates will have to forgo a public review process of their social media prof
   
 **[Join the team][join]**
 
-## Launch Team
+## Appointed Board of Directors (Launch Team)
 
+> Directors are ordered in no particular order of importance, all directors share equal importance & responsiblity.
+
+- [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
 - [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
 - [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
-- [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
-- [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
 - [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
+- [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
+- Vacant position
+- Vacant position
+
+## Elected Board of Directors
+
+After EOS launches (June 2018), EOS Nation will conduct an election for their "elected" board of directors. Current "appointed" board of directors may apply to be elected in this election.
 
 ## Active Members
 
+> Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
+
 - [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
-- [Dave Rex](members.md#dave-rex) (USA)
+- [Dave Rex](members.md#dave-rex) (Texas, USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
 - [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
