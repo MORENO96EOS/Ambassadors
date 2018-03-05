@@ -18,6 +18,7 @@ Candidates will have to forgo a public review process of their social media prof
 - [ ] Bio (Description of yourself)
 - [ ] Proposed Role
 - [ ] Social Media Accounts
+  - [ ] Facebook
   - [ ] Steemit
   - [ ] LinkedIn
   - [ ] Twitter
