@@ -34,8 +34,8 @@ Candidates will have to forgo a public review process of their social media prof
 - [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
 - [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
 - [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
-- [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
 - [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
+- [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
 - Vacant position
 - Vacant position
 
