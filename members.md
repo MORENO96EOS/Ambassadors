@@ -1,7 +1,30 @@
+# Appointed Board of Directors (Launch Team)
 
-# Members
+> Directors are ordered in no particular order of importance, all directors share equal importance & responsiblity.
 
-A list of active EOS Nation members.
+## Vincent Grenier
+### Sherbrooke, QC
+
+<img src="https://media.licdn.com/dms/image/C4E03AQEKt_te86ErJQ/profile-displayphoto-shrink_200_200/0?e=1525230000&v=alpha&t=_mr2eeL-YAc5rktXo65iv1hwW887ydjOH0XkINMGgpc" height="150px" width="150px" />
+
+### Role
+
+- ⭐️Event planning
+- ⭐️VC
+- Community Engagement
+- EOS Nation Facebook Admin
+
+#### Social Media
+
+- [Steemit](https://steemit.com/@vincent9432)
+- [LinkedIn](https://www.linkedin.com/in/vincent-grenier-3565b492/)
+- [Telegram](https://t.me/Vincent9432)
+- [GitHub](https://github.com/Vincent9432)
+
+### Bio
+
+Vincent, east, sleeps and breathes EOS. Although he works as a Structural Engineer full-time, he listens to EOS and Crypto content while working and during his spare time. He is incredibly enthusiastic about the project and the future it will bring. 
+His mission is to help as much as he can to fulfill Dan Larimer’s vision of a new society. His goal is to make a difference in this new ecosystem by educating people about EOS by creating EOS meetups and speaking about EOS at conferences.
 
 ## Denis Carriere
 ### Ottawa, ON
@@ -30,29 +53,75 @@ Denis is a full-stack web & GIS developer and is a strong advocate for open sour
 Currently he is the one of core developers for [TurfJS](https://github.com/Turfjs/turf) (Advanced geospatial analysis for browsers and Node.js) and a developer for [SharedStreets.io](https://sharedstreets.io) (A shared language for the world's streets).
 On his downtime, he is the event organizer for [OpenStreetMap](https://www.meetup.com/openstreetmap-ottawa) & [EOS in Ottawa](https://www.meetup.com/EOS-Nation) & travels internationally/locally attending technology conferences.
 
-## Vincent Grenier
-### Sherbrooke, QC
+## Yves La Rose
+### Ottawa, ON
 
-<img src="https://media.licdn.com/dms/image/C4E03AQEKt_te86ErJQ/profile-displayphoto-shrink_200_200/0?e=1525230000&v=alpha&t=_mr2eeL-YAc5rktXo65iv1hwW887ydjOH0XkINMGgpc" height="150px" width="150px" />
+<img src="https://user-images.githubusercontent.com/550895/36930171-b4843868-1e69-11e8-9a62-ccce113534de.png" height="150px" width="150px" />
 
 ### Role
 
-- ⭐️Event planning
-- ⭐️VC
-- Community Engagement
-- EOS Nation Facebook Admin
+- ⭐️Spokesman
+- ⭐️Research & Developement
+- Special Advisor
 
-#### Social Media
+### Social Media
 
-- [Steemit](https://steemit.com/@vincent9432)
-- [LinkedIn](https://www.linkedin.com/in/vincent-grenier-3565b492/)
-- [Telegram](https://t.me/Vincent9432)
-- [GitHub](https://github.com/Vincent9432)
+- [LinkedIn](https://www.linkedin.com/in/yves-la-rose-41669034/)
+- [Twitter](https://twitter.com/YBNormlJapan)
+- [GitHub](https://github.com/YvesLaRose)
+- [Telegram](https://t.me/YBNorml)
 
 ### Bio
 
-Vincent, east, sleeps and breathes EOS. Although he works as a Structural Engineer full-time, he listens to EOS and Crypto content while working and during his spare time. He is incredibly enthusiastic about the project and the future it will bring. 
-His mission is to help as much as he can to fulfill Dan Larimer’s vision of a new society. His goal is to make a difference in this new ecosystem by educating people about EOS by creating EOS meetups and speaking about EOS at conferences.
+Eat, sleep, crypto. Like many others on the EOS Nation team, Yves is passionate about crypto and the future that EOS will bring. Yves has been focusing on EOS full-time since early January 2018. Yves began his journey into computers at a very young age, building his first computer at 6 years old. Yves has always had a deep ideological relationship with computers and their role in a decentralized future. Yves began his university studies in software engineering, but quickly realized the human aspect was where his heart resided. After completing studies in psychology and pure sciences, Yves bridged the gap by focusing on perceptual and computational neuropsychology. In his professional life, Yves brings his background to organizations looking to create autonomous efficiencies and effectivness to processes using technology. When Yves isn't in front of his computer, he is an avid reader, a lover of the outdoors - some of you may have crossed Yves on one of his many backountry expeditions - and a world traveller. Yves is fluent in Japanese having spent the early part of his formative adult years living in Japan. 
+
+## Stephane Bisson
+### Montreal, QC
+
+<img src="https://scontent.fyto1-1.fna.fbcdn.net/v/t1.0-1/p480x480/14485087_10157552985615022_4331675997856145638_n.jpg?oh=483ad5d3246f2660d1da416759316562&oe=5B3F2C7F" height="150px" width="150px" />
+
+### Role
+
+- ⭐️Social Media
+- ⭐️Marketing
+
+### Social Media
+
+- Steemit
+- LinkedIn
+- Twitter
+- [GitHub](https://github.com/Foutight)
+- [Telegram](https://t.me/Foutight)
+
+### Bio
+
+To be completed
+
+## Jean Carriere
+### Toronto, ON
+
+<img src="https://avatars0.githubusercontent.com/u/11860891?s=460&v=4" height="150px" width="150px" />
+
+### Role
+
+- ⭐️Spokesman
+- ⭐️Technology
+
+### Social Media
+
+- Steemit
+- [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
+- [Twitter](https://twitter.com/JeanCarriere)
+- [GitHub](https://github.com/JC0112)
+- [Telegram](https://t.me/jc0112)
+
+### Bio
+
+To be completed
+
+# Active Members
+
+> Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
 
 ## Lenny Goudreault
 ### Gatineau, QC
@@ -97,73 +166,6 @@ To be completed
 ## Bio
 
 I’ve lived in Texas all my life and am of Hispanic heritage, a 3rd generation college graduate and earned an MBA in 2011, acquired experience in education/education administration and worked business startups in education and design.  I’ve had an eye in the blockchain space for a while, the first opportunity I missed was not buying Bitcoin when I saw it at $2, I started getting interested in it again when it dropped below $500 and have been investing in the space ever since.   I followed big names in the industry (Andreas Antonopoulos) and was a bitcoin maximalist for a long time, then I realized Bitcoin was no longer making sense as a P2P money or scaling solution due to miner control and fees.  I came across EOS just for the mere fact that It was relatively cheap, just dropping from just above $5.  I jumped in at about $1.75 and double down every time it dropped (closely following the project)… so yea 100% of my cryptfolio is EOS.  I’ve always been a saver and investor but never really made money until the cryptoworld came around… I was and still am convinced that markets are manipulated.  I Iived through the Internet boom, housing bust, and Financial Crisis, am an original RON PAUL 2008 supporter and am driven to study free market economics, a big fan of Peter Schiff, Marc Faber & Milton Friedman.  I also enjoy and try to stay on the forefront of technology (some experience in web design & coding), so when I saw the man Dan Larimer come about (boom) All in (free market solutions).  I see Dan Larimer as the Steve Jobs of Crypto.  Other than this, I’m a pretty basic guy with a passion for business development and community growth and engagement.  Behind every great project is are great people and a community to support them.
-
-## Stephane Bisson
-### Montreal, QC
-
-<img src="https://scontent.fyto1-1.fna.fbcdn.net/v/t1.0-1/p480x480/14485087_10157552985615022_4331675997856145638_n.jpg?oh=483ad5d3246f2660d1da416759316562&oe=5B3F2C7F" height="150px" width="150px" />
-
-### Role
-
-- ⭐️Social Media
-- ⭐️Marketing
-
-### Social Media
-
-- Steemit
-- LinkedIn
-- Twitter
-- [GitHub](https://github.com/Foutight)
-- [Telegram](https://t.me/Foutight)
-
-### Bio
-
-To be completed
-
-## Yves La Rose
-### Ottawa, ON
-
-<img src="https://user-images.githubusercontent.com/550895/36930171-b4843868-1e69-11e8-9a62-ccce113534de.png" height="150px" width="150px" />
-
-### Role
-
-- ⭐️Spokesman
-- ⭐️Research & Developement
-- Special Advisor
-
-### Social Media
-
-- [LinkedIn](https://www.linkedin.com/in/yves-la-rose-41669034/)
-- [Twitter](https://twitter.com/YBNormlJapan)
-- [GitHub](https://github.com/YvesLaRose)
-- [Telegram](https://t.me/YBNorml)
-
-### Bio
-
-Eat, sleep, crypto. Like many others on the EOS Nation team, Yves is passionate about crypto and the future that EOS will bring. Yves has been focusing on EOS full-time since early January 2018. Yves began his journey into computers at a very young age, building his first computer at 6 years old. Yves has always had a deep ideological relationship with computers and their role in a decentralized future. Yves began his university studies in software engineering, but quickly realized the human aspect was where his heart resided. After completing studies in psychology and pure sciences, Yves bridged the gap by focusing on perceptual and computational neuropsychology. In his professional life, Yves brings his background to organizations looking to create autonomous efficiencies and effectivness to processes using technology. When Yves isn't in front of his computer, he is an avid reader, a lover of the outdoors - some of you may have crossed Yves on one of his many backountry expeditions - and a world traveller. Yves is fluent in Japanese having spent the early part of his formative adult years living in Japan. 
-
-## Jean Carriere
-### Toronto, ON
-
-<img src="https://avatars0.githubusercontent.com/u/11860891?s=460&v=4" height="150px" width="150px" />
-
-### Role
-
-- ⭐️Spokesman
-- ⭐️Technology
-
-### Social Media
-
-- Steemit
-- [LinkedIn](https://www.linkedin.com/in/jeancarriere1)
-- [Twitter](https://twitter.com/JeanCarriere)
-- [GitHub](https://github.com/JC0112)
-- [Telegram](https://t.me/jc0112)
-
-### Bio
-
-To be completed
-
 
 ## Daniel Keyes
 ### Toronto, ON
@@ -223,28 +225,6 @@ I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and 
 ### Bio
 
 Born and raised in Germany. In Toronto since 2016. Web Developer. Ethereum Miner. DevOps. EOS Fanboy.
-
-## Dave Rex
-### Texas, USA
-
-<img src="https://user-images.githubusercontent.com/550895/36947657-27bcdd06-1f9d-11e8-913b-abd1a5d32ac6.png" height="150px" width="150px" />
-
-### Role
-
-- ⭐️ Facebook EOS Nation (Admin)
-- ⭐️ Community Engagement
-
-### SocialMedia
-
-- Steemit
-- LinkedIn
-- Twitter
-- GitHub
-- Telegram
-
-### Bio
-
-To be completed
 
 ## Alexandre Bourget
 ### Montreal, QC
