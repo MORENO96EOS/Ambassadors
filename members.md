@@ -163,7 +163,15 @@ To be completed
 
 ### Bio
 
-To be completed
+Passionate full-stack developer. Loves Go, taught Python for many years. 
+
+Much of my last work involved data, building data products and infrastructures. Making it useful to people around. Worked with Python, pandas and friends, Go data science tools. I love building tools for fellow developers.
+
+I love deploying Kubernetes and administering clusters and after studying all options, I used bootkube, terraform, EC2 and GCP last time I kickstarted new clusters.
+
+I have fine eyes for details, both at macro and micro levels. I appreciate work well done.
+
+I love automation. I automate anything I do for the third time. I can't live without continuous deployment, A/B testing and feature switches. I don't do what machines can do.
 
 ## Daniel Keyes
 ### Toronto, ON
