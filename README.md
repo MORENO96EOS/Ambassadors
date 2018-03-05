@@ -32,7 +32,6 @@ Candidates will have to forgo a public review process of their social media prof
 - [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
 - [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
 - [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
-- One spot open
 
 ## Active Members
 
@@ -41,5 +40,6 @@ Candidates will have to forgo a public review process of their social media prof
 - [Dave Rex](members.md#dave-rex) (USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
+- [Alexandre Bourget](members.md#alexandre-bourget) (Montreal, QC)
 
 [join]: https://github.com/EOS-Nation/members/issues/new
