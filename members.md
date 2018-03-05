@@ -40,18 +40,19 @@ On his downtime, he is the event organizer for [OpenStreetMap](https://www.meetu
 - ⭐️Event planning
 - ⭐️VC
 - Community Engagement
+- EOS Nation Facebook Admin
 
 #### Social Media
 
-- Steemit
+- [Steemit](https://steemit.com/@vincent9432)
 - [LinkedIn](https://www.linkedin.com/in/vincent-grenier-3565b492/)
 - [Telegram](https://t.me/Vincent9432)
-- GitHub
-- Twitter
+- [GitHub](https://github.com/Vincent9432)
 
 ### Bio
 
-To be completed
+Vincent, eat, sleeps and breathes EOS. Although he works as a Structural Engineer full time, he listens to EOS and Crypto content while working and during his spare time. He is incredibly enthusiastic about the project and the future it will bring. 
+His mission is to help as much as he can to fulfill Dan Larimer’s vision of a new society. His goal is to make a difference in this new ecosystem by educating people about EOS by creating EOS meetups and speaking about EOS at conferences.
 
 ## Lenny Goudreault
 ### Gatineau, QC
