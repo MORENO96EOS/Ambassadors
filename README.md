@@ -27,28 +27,25 @@ Candidates will have to forgo a public review process of their social media prof
   
 **[Join the team][join]**
 
-## Appointed Board of Directors (Launch Team)
+## Launch Team
 
-> Directors are ordered in no particular order of importance, all directors share equal importance & responsiblity.
+> Launch team is ordered in no particular order of importance, all members share equal importance & responsiblity.
 
 - [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
 - [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
 - [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
 - [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
 - [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
+- [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
+- [David Requenez](members.md#david-requenez) (Texas, USA)
 - Vacant position
 - Vacant position
-
-## Elected Board of Directors
-
-After EOS launches (June 2018), EOS Nation will conduct an election for their "elected" board of directors. Current "appointed" board of directors may apply to be elected in this election.
+- Vacant position
 
 ## Active Members
 
 > Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
 
-- [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
-- [David Requenez](members.md#david-requenez) (Texas, USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
 
