@@ -146,7 +146,16 @@ To be completed
 
 ### Bio
 
-To be completed
+Where to start… I don’t really have a background in programming or coding but I have always been interested by the technology side. I Was a huge gamer when I was at a younger age and I’ve try to learn how coding but it wasn’t really for me. After college, I have acquired some experience in project managing for a construction company. I’ve finishes my Master degree in architecture last year and now currently working as an Architect graduate in the biggest architecture agency in Gatineau. 
+
+I am also the co-founder of Cryptek. Cryptek is aiming to build content in French to educate the community about Cryptocurrency and Blockchain technology. We also organizing meetup to share our knowledge and the ideology of the Blockchain technology.
+
+In 2008, my research lead me deep down the rabbit hole. It is at this moment that I realise how our world is corrupt and how bad it is governed. I’ve always wanted to find a way to change the world and try to make it a better place. Deep in me I’ve always been a Libertarian without really knowing it. 
+
+In 2011, I heard Bitcoin for the first time, but like everyone else, I didn’t really see is potential was at first glance.  Last year I heard about it again and I’ve start studying Bitcoin and Blockchain technology. At this moment, I got hooked up and couldn’t stop learning and consume as much information I could on the subject. I have no doubt that this technology will have a great impact on our live and on our society. 
+	
+My main goal is someday to give full time commitment to the crypto space and try to share to the community the vision of decentralization and how it will impact our world positively. I also highly preaching the vision of Dan Larimer for a non-violence society that is self-governed and where everyone life and property are properly secured.
+
 
 ## David Requenez
 ### Texas, USA
