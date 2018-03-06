@@ -15,6 +15,7 @@ This document will define how membership to EOS Nation will be governed through 
 - [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
 - [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
 - [David Requenez](members.md#david-requenez) (Texas, USA)
+- [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - Vacant position
 - Vacant position
 - Vacant position
@@ -23,10 +24,7 @@ This document will define how membership to EOS Nation will be governed through 
 
 > Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
 
-- [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
 - [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
-
-[join]: https://github.com/EOS-Nation/members/issues/new
 
 ## Joining EOS Nation
 
@@ -49,4 +47,4 @@ Candidates will have to forgo a public review process of their social media prof
   - [ ] GitHub
   - [ ] Telegram
   
-**[Join the team][join]**
+**[Join the team][https://github.com/EOS-Nation/members/issues/new]**
