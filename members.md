@@ -1,6 +1,4 @@
-# Launch Team
-
-> Launch Team is ordered in no particular order of importance, all members share equal importance & responsiblity.
+# Members
 
 ## Vincent Grenier
 ### Sherbrooke, QC
@@ -171,8 +169,6 @@ To be completed
 ## Bio
 
 I’ve lived in Texas all my life and am of Hispanic heritage, a 3rd generation college graduate and earned an MBA in 2011, acquired experience in education/education administration and worked business startups in education and design.  I’ve had an eye in the blockchain space for a while, the first opportunity I missed was not buying Bitcoin when I saw it at $2, I started getting interested in it again when it dropped below $500 and have been investing in the space ever since.   I followed big names in the industry (Andreas Antonopoulos) and was a bitcoin maximalist for a long time, then I realized Bitcoin was no longer making sense as a P2P money or scaling solution due to miner control and fees.  I came across EOS just for the mere fact that It was relatively cheap, just dropping from just above $5.  I jumped in at about $1.75 and double down every time it dropped (closely following the project)… so yea 100% of my cryptfolio is EOS.  I’ve always been a saver and investor but never really made money until the cryptoworld came around… I was and still am convinced that markets are manipulated.  I Iived through the Internet boom, housing bust, and Financial Crisis, am an original RON PAUL 2008 supporter and am driven to study free market economics, a big fan of Peter Schiff, Marc Faber & Milton Friedman.  I also enjoy and try to stay on the forefront of technology (some experience in web design & coding), so when I saw the man Dan Larimer come about (boom) All in (free market solutions).  I see Dan Larimer as the Steve Jobs of Crypto.  Other than this, I’m a pretty basic guy with a passion for business development and community growth and engagement.  Behind every great project is are great people and a community to support them.
-
-# Active Members
 
 > Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
 
