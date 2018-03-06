@@ -123,7 +123,7 @@ Inspired by Dan Larimer, I also commit myself to helping build free market solut
 
 ### Bio
 
-To be completed
+I am an entrepreneurial technology educator and consultant for open data. I leverages an open data workflow for the modeling of building information using energy modeling software applications and geospatial systems. My journey of discovery has pioneered a data exchange framework that enables architects and engineers to reach beyond software applications. I believe decentralized networks have the potential to help us understand and advise on technology infrastructure gaps.
 
 
 ## Lenny Goudreault
