@@ -164,7 +164,7 @@ My main goal is someday to give full time commitment to the crypto space and try
 
 ## Role
 
-- Facebook EOS Nation (Admin)
+- EOS Nation Facebook Group (Admin and Founder)
 - Community Engagement
 - Design
 
