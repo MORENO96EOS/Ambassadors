@@ -25,7 +25,7 @@ This document will define how membership to EOS Nation will be governed through 
 
 ## Joining EOS Nation
 
-Provide the following information to [submit your candidacy](join) to become a member of EOS Nation.
+Provide the following information to submit your candidacy to become a member of EOS Nation.
 
 Candidates will have to forgo a public review process of their social media profiles & bio by the EOS Nation community. Once a member applies as a possible candidate, a minimum of 3 active members will be appointed to approve the new member using 👍👎. Once all 3+ appointed members have voted, the member's application will be approved or denied.
 
