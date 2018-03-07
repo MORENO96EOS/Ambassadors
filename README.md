@@ -6,7 +6,7 @@ This document will define how membership to EOS Nation will be governed through 
 
 ## Launch Team
 
-> Launch team is ordered in no particular order of importance, all members share equal importance & responsiblity.
+> Launch team is ordered in no particular order of importance, all members share equal importance & responsibility.
 
 - [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
 - [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
