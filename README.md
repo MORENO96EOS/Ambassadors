@@ -16,9 +16,6 @@ This document will define how membership to EOS Nation will be governed through 
 - [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
 - [David Requenez](members.md#david-requenez) (Texas, USA)
 - [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
-- Vacant position
-- Vacant position
-- Vacant position
 
 ## Active Members
 
