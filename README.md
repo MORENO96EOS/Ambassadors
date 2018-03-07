@@ -1,29 +1,29 @@
-# EOS Nation - Members 👨‍👧‍👦
+# EOS Nation - Ambassadors 👨‍👧‍👦
 
-## Membership
+This document will define what is an EOS Nation Ambassador and its implications and what it takes to become one if you choose to.
 
-This document will define how membership to EOS Nation will be governed through a decentralized model
+## What is an EOS Nation Ambassador?
 
-## Launch Team
+>EOS Nation wants to educate people about this new technology. As a Block Producer, we want to encourage the creation of events to inform the public about the good things that the EOS protocol will bring to our society. We want to encourage people in the community to contribute to the movement by hosting engagement sessions around the world. We also aim to create informative content that would be accessible to everyone, no matter where they reside, while being available in multiple languages so that everyone can promote the EOS ecosystem. This is where Ambassadors comes in to play. An Ambassador is a person that is excited about the EOS project and that wants to contribute to the community by hosting events in their jurisdiction. It can either be a EOS Meetup or any other blockchain event that can promote the EOS blockchain. EOS Nation will provide powerpoint presentations, text and step by step guides that explain how to create a Meetup or host big events. All that content wont be ready right away and it can always be improved so we would appreciate all the help we can get from the community.
 
-> Launch team is ordered in no particular order of importance, all members share equal importance & responsibility.
+## What it takes to be an EOS Nation Ambassador?
 
-- [Vincent Grenier](members.md#vincent-grenier) (Sherbrooke, QC)
-- [Denis Carriere](members.md#denis-carriere) (Ottawa, ON)
-- [Yves La Rose](members.md#yves-la-rose) (Ottawa, ON)
-- [Stephane Bisson](members.md#stephane-bisson) (Montreal, QC)
-- [Jean Carriere](members.md#jean-carriere) (Toronto, ON)
-- [Lenny Goudreault](members.md#lenny-goudreault) (Gatineau, QC)
-- [David Requenez](members.md#david-requenez) (Texas, USA)
-- [Daniel Keyes](members.md#daniel-keyes) (Toronto, ON)
+>EOS Nation is looking for motivated people that are excited and passionate about the project and that would be able to host meetups idealy once a month.......... We are looking for around 2-3 EOS Nation Ambassadors per city that would cooperate in the creation of the Meetups. If you feel that your skillset would be better used in the main EOS Nation Team, we invite you to submit your canidacy in the Members repository. 
+ 
+## Current Ambassador Team
 
-## Active Members
+> Ambassadors are ordered alphabeticly according to your geographical location (Country/State/City).
 
-> Active members are ordered in no particular order of importance, all members share equal importance & responsiblity.
+- (Canada/Ontario/Ottawa) [Denis Carriere](members.md#denis-carriere) (EOS Nation BP Team member)
+- (Canada/Ontario/Ottawa) [Yves La Rose](members.md#yves-la-rose) (EOS Nation BP Team member)
+- (Canada/Ontario/Toronto) [Daniel Keyes](members.md#daniel-keyes) (EOS Nation BP Team member)
+- (Canada/Québec/Sherbrooke) [Vincent Grenier](members.md#vincent-grenier) (EOS Nation BP Team member)
+- (Canada/Québec/Montréal) [Stephane Bisson](members.md#stephane-bisson) (EOS Nation BP Team member)
+- (Canada/Québec/Gatineau) [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation BP Team member)
+- (USA/Texas/Austin) [David Requenez](members.md#david-requenez) (EOS Nation BP Team member)
 
-- [Jan Langheimer](members.md#jan-langheimer) (Toronto, ON)
 
-## Joining EOS Nation
+## I want to be a EOS Nation Ambassador!
 
 Provide the following information to submit your candidacy to become a member of EOS Nation.
 
@@ -32,10 +32,10 @@ Candidates will have to forgo a public review process of their social media prof
 **Requirements**
 
 - [ ] Full Name
-- [ ] Geographical Location
+- [ ] Geographical Location (Country/State/City)
 - [ ] Headshot image
 - [ ] Bio (Description of yourself)
-- [ ] Proposed Role
+- [ ] Why do you want to be an EOS Nation Ambassador?
 - [ ] Social Media Accounts (optional)
   - [ ] Facebook
   - [ ] Steemit
@@ -44,4 +44,4 @@ Candidates will have to forgo a public review process of their social media prof
   - [ ] GitHub
   - [ ] Telegram
   
-## **[Join the team](https://github.com/EOS-Nation/members/issues/new)**
+## **[Join the team of Ambassadors!](https://github.com/EOS-Nation/Ambassadors/issues/new)**
