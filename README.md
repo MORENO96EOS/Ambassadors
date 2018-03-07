@@ -21,13 +21,13 @@ This document will define what is an EOS Nation Ambassador and its implications 
       - [Yves La Rose](members.md#yves-la-rose) (EOS Nation BP Team member)
     - Toronto
       - [Daniel Keyes](members.md#daniel-keyes) (EOS Nation BP Team member)
-    - Québec
-      - Sherbrooke
-        - [Vincent Grenier](members.md#vincent-grenier) (EOS Nation BP Team member)
-      - Montréal
-        - [Stephane Bisson](members.md#stephane-bisson) (EOS Nation BP Team member)
-      - Gatineau 
-        - [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation BP Team member)
+  - Québec
+    - Sherbrooke
+      - [Vincent Grenier](members.md#vincent-grenier) (EOS Nation BP Team member)
+    - Montréal
+      - [Stephane Bisson](members.md#stephane-bisson) (EOS Nation BP Team member)
+    - Gatineau 
+      - [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation BP Team member)
 - USA
   - Texas
     - Austin
