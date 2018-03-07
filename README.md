@@ -47,4 +47,4 @@ Candidates will have to forgo a public review process of their social media prof
   - [ ] GitHub
   - [ ] Telegram
   
-**[Join the team](https://github.com/EOS-Nation/members/issues/new)**
+## **[Join the team](https://github.com/EOS-Nation/members/issues/new)**
