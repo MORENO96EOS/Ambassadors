@@ -4,11 +4,11 @@ Provide the following information to submit your candidacy to become a member of
 Applicants will have to forgo a public review process by the EOS Nation community and once a consensus has been reached the member will be brought on board the EOS Nation community.
 
 - [ ] Full Name
-- [ ] Geographical Location
+- [ ] Geographical Location (Country/State/City)
 - [ ] Headshot image
 - [ ] Bio (Description of yourself)
-- [ ] Proposed Role
-- [ ] Social Media Accounts (Optional)
+- [ ] Why do you want to be an EOS Nation Ambassador?
+- [ ] Social Media Accounts (optional)
   - [ ] Facebook
   - [ ] Steemit
   - [ ] LinkedIn
