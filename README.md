@@ -8,7 +8,8 @@ This document will define what is an EOS Nation Ambassador and its implications 
 
 ## What it takes to be an EOS Nation Ambassador?
 
->EOS Nation is looking for motivated people that are excited and passionate about the project and that would be able to host meetups idealy once a month.......... We are looking for around 2-3 EOS Nation Ambassadors per city that would cooperate in the creation of the Meetups. If you feel that your skillset would be better used in the main EOS Nation Team, we invite you to submit your canidacy in the Members repository. 
+>EOS Nation is looking for motivated people that are excited and passionate about the project and that would be able to host meetups idealy once a month. You never know what is going to happen as a result to following your passion. Meetups are just the first step.
+Meetups will allow you to meet people as passionate as you about EOS with different skill set. Toguether, you can build big things that you would never tought about without having brainstormed with these people. We are looking for around 2-3 EOS Nation Ambassadors per city that would cooperate in the creation of the Meetups. If you feel that your skillset would be better used in the main EOS Nation Team, we invite you to submit your canidacy in the Members repository. 
  
 ## Current Ambassador Team
 
