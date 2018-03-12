@@ -1,53 +1,48 @@
 # EOS Nation - Ambassadors 👨‍👧‍👦
 
-This document will define what is an EOS Nation Ambassador and its implications and what it takes to become one if you choose to.
-
 ## What is an EOS Nation Ambassador?
 
-> EOS Nation wants to educate people about this new technology. As a Block Producer, we want to encourage the creation of events to inform the public about the good things that the EOS protocol will bring to our society. We want to encourage people in the community to contribute to the movement by hosting engagement sessions around the world. We also aim to create informative content that would be accessible to everyone, no matter where they reside, while being available in multiple languages so that everyone can promote the EOS ecosystem. This is where Ambassadors comes in to play. An Ambassador is a person that is excited about the EOS project and that wants to contribute to the community by hosting events in their jurisdiction. It can either be a EOS Meetup or any other blockchain event that can promote the EOS blockchain. EOS Nation will provide powerpoint presentations, text and step by step guides that explain how to create a Meetup or host big events. All that content wont be ready right away and it can always be improved so we would appreciate all the help we can get from the community.
+> An Ambassador is an individual that is passionate about the EOS project and wants to play a part in the ecosystem by hosting or participating in monthly events to promote the EOS blockchain. Ambassadors are provided with educational material and the logistical know-how to help organize and run successful events. Subsequently, Ambassadors would improve the educational material so that others can also benefit from their acquired practical knowledge.
 
-## What it takes to be an EOS Nation Ambassador?
+Currently, EOS Nation is looking for 2-3 EOS Nation Ambassadors from cities across the globe to cooperate in these events.
 
->You never know what is going to happen as a result to following your passion. Meetups are just the first step.
-Meetups will allow you to meet people as passionate as you about EOS and with different skill set. Toguether, you can build big things that you would never would of tought possible without having brainstormed with these people. EOS Nation is looking for motivated people that are excited and passionate about the project and that would be able to host meetups idealy once a month. We are looking for around 2-3 EOS Nation Ambassadors per city that would cooperate in the creation of the Meetups. If you feel that your skillset would be better used in the main EOS Nation Team, we invite you to submit your canidacy in the Members repository. 
  
 ## Current Ambassador Team
 
-> Ambassadors are ordered alphabeticly according to your geographical location (Country/State/City).
-
-- Canada
+> Canada
   - Ontario
     - Ottawa
-      - [Denis Carriere](members.md#denis-carriere) (EOS Nation BP Team member)
-      - [Yves La Rose](members.md#yves-la-rose) (EOS Nation BP Team member)
+      - [Denis Carriere](members.md#denis-carriere) (EOS Nation Co-founder)
+      - [Yves La Rose](members.md#yves-la-rose) (EOS Nation Co-founder)
     - Toronto
-      - [Daniel Keyes](members.md#daniel-keyes) (EOS Nation BP Team member)
+      - [Daniel Keyes](members.md#daniel-keyes) (EOS Nation Co-founder)
   - Québec
-    - Sherbrooke
-      - [Vincent Grenier](members.md#vincent-grenier) (EOS Nation BP Team member)
-    - Montréal
-      - [Stephane Bisson](members.md#stephane-bisson) (EOS Nation BP Team member)
     - Gatineau 
-      - [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation BP Team member)
-- USA
+      - [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation Co-founder)
+    - Montréal
+      - [Stephane Bisson](members.md#stephane-bisson) (EOS Nation Co-founder)
+    - Sherbrooke
+      - [Vincent Grenier](members.md#vincent-grenier) (EOS Nation Co-founder)
+> USA
   - Texas
     - Austin
-      - [David Requenez](members.md#david-requenez) (EOS Nation BP Team member)
+      - [David Requenez](members.md#david-requenez) (EOS Nation Co-founder)
 
 
-## I want to be a EOS Nation Ambassador!
+## I want to be an EOS Nation Ambassador!
 
-Provide the following information to submit your candidacy to become a EOS Nation Ambassador.
+Provide the following information when submitting your candidacy to become a EOS Nation Ambassador.
 
-Candidates will have to forgo a public review process of their social media profiles & bio by the EOS Nation community. Once a member applies as a possible candidate, a minimum of 3 active members will be appointed to approve the new Ambassador using 👍👎. Once all 3+ appointed members have voted, the member's application will be approved or denied.
+Candidates will forgo a public review process of their social media profiles & bio by the EOS Nation community. Once a member applies as to become an EOS Nation Ambassor, relevant EOS Nation Co-founders will review the application and vote using the "👍👎" buttons. Once all relevant EOS Nation Co-founders have voted, an appointed EOS Nation Co-founder will communicate the decision to the applicant.
 
 **Requirements**
 
 - [ ] Full Name
-- [ ] Geographical Location (Country/State/City)
+- [ ] E-mail address
+- [ ] Geographical Location (Country/State or Province/City)
 - [ ] Headshot image
-- [ ] Bio (Description of yourself)
-- [ ] Why do you want to be an EOS Nation Ambassador?
+- [ ] Short Bio (100 words or less)
+- [ ] Why do you want to be an EOS Nation Ambassador? (250 words or less)
 - [ ] Social Media Accounts (optional)
   - [ ] Facebook
   - [ ] Steemit
