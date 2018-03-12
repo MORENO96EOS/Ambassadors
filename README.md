@@ -14,6 +14,7 @@ Currently, EOS Nation is looking for EOS Nation Ambassadors from cities across t
     - Ottawa
       - [Denis Carriere](Co-Founders.md#denis-carriere) (EOS Nation Co-founder)
       - [Yves La Rose](Co-Founders.md#yves-la-rose) (EOS Nation Co-founder)
+      - [Ervin Ruci](Ambassadors.md#ervin-ruci) (GIS Blockchain Protocol)
     - Toronto
       - [Daniel Keyes](Co-Founders.md#daniel-keyes) ([EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & EOS Nation Co-Founder)
       - [Jean Carriere](Co-Founderss.md#jean-carriere) (EOS Nation Co-Founder)
