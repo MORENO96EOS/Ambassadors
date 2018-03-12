@@ -12,23 +12,23 @@ Currently, EOS Nation is looking for EOS Nation Ambassadors from cities across t
 > Canada
   - Ontario
     - Ottawa
-      - [Denis Carriere](members.md#denis-carriere) - EOS Nation Co-founder
-      - [Yves La Rose](members.md#yves-la-rose) - EOS Nation Co-founder
+      - [Denis Carriere](members.md#denis-carriere) (EOS Nation Co-founder)
+      - [Yves La Rose](members.md#yves-la-rose) (EOS Nation Co-founder)
     - Toronto
-      - [Daniel Keyes](members.md#daniel-keyes) - [EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & EOS Nation Co-Founder
-      - [Jean Carriere](members.md#jean-carriere) - EOS Nation Co-Founder
-      - [Jan Langheimer](members.md#jan-langheimer) - [EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & [EOS Index](https://eosindex.io)
+      - [Daniel Keyes](members.md#daniel-keyes) ([EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & EOS Nation Co-Founder)
+      - [Jean Carriere](members.md#jean-carriere) (EOS Nation Co-Founder)
+      - [Jan Langheimer](members.md#jan-langheimer) ([EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & [EOS Index](https://eosindex.io))
   - Québec
     - Gatineau 
-      - [Lenny Goudreault](members.md#lenny-goudreault) - EOS Nation Co-founder
+      - [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation Co-founder)
     - Montréal
-      - [Stephane Bisson](members.md#stephane-bisson) - EOS Nation Co-founder
+      - [Stephane Bisson](members.md#stephane-bisson) (EOS Nation Co-founder)
     - Sherbrooke
-      - [Vincent Grenier](members.md#vincent-grenier) - EOS Nation Co-founder
+      - [Vincent Grenier](members.md#vincent-grenier) (EOS Nation Co-founder)
 > USA
   - Texas
     - Austin
-      - [David Requenez](members.md#david-requenez) - EOS Nation Co-founder
+      - [David Requenez](members.md#david-requenez) (EOS Nation Co-founder)
 
 
 ## I want to be an EOS Nation Ambassador!
