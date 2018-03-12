@@ -4,7 +4,10 @@
 
 > An Ambassador is an individual that is passionate about the EOS project and wants to play a part in the ecosystem by hosting or participating in monthly events to promote the EOS blockchain. Ambassadors are provided with educational material and the logistical know-how to help organize and run successful events. Subsequently, Ambassadors would improve the educational material so that others can also benefit from their acquired practical knowledge.
 
-Currently, EOS Nation is looking for 2-3 EOS Nation Ambassadors from cities across the globe to cooperate in these events.
+
+> Currently, EOS Nation is looking for 2-3 EOS Nation Ambassadors from cities across the globe to cooperate in these events.
+
+
 
  
 ## Current Ambassador Team
