@@ -2,34 +2,33 @@
 
 ## What is an EOS Nation Ambassador?
 
-> An Ambassador is an individual that is passionate about the EOS project and wants to play a part in the ecosystem by hosting or participating in monthly events to promote the EOS blockchain. Ambassadors are provided with educational material and the logistical know-how to help organize and run successful events. Subsequently, Ambassadors improve the educational material so that others can benefit from their acquired practical knowledge.
+An Ambassador is an individual that is passionate about the EOS project and wants to play a part in the ecosystem by hosting or participating in monthly events to promote the EOS blockchain. Ambassadors are provided with educational material and the logistical know-how to help organize and run successful events. Subsequently, Ambassadors improve the educational material so that others can benefit from their acquired practical knowledge.
 
 
-> Currently, EOS Nation is looking for EOS Nation Ambassadors from cities across the globe to cooperate in these events.
-
-
-
+Currently, EOS Nation is looking for EOS Nation Ambassadors from cities across the globe to cooperate in these events.
  
 ## Current Ambassador Team
 
 > Canada
   - Ontario
     - Ottawa
-      - [Denis Carriere](members.md#denis-carriere) (EOS Nation Co-founder)
-      - [Yves La Rose](members.md#yves-la-rose) (EOS Nation Co-founder)
+      - [Denis Carriere](members.md#denis-carriere) - EOS Nation Co-founder
+      - [Yves La Rose](members.md#yves-la-rose) - EOS Nation Co-founder
     - Toronto
-      - [Daniel Keyes](members.md#daniel-keyes) (EOS Nation Co-founder)
+      - [Daniel Keyes](members.md#daniel-keyes) - [EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & EOS Nation Co-Founder
+      - [Jean Carriere](members.md#jean-carriere) - EOS Nation Co-Founder
+      - [Jan Langheimer](members.md#jan-langheimer) - [EOS Meetup - Toronto](https://www.meetup.com/EOS-Toronto) & [EOS Index](https://eosindex.io)
   - Québec
     - Gatineau 
-      - [Lenny Goudreault](members.md#lenny-goudreault) (EOS Nation Co-founder)
+      - [Lenny Goudreault](members.md#lenny-goudreault) - EOS Nation Co-founder
     - Montréal
-      - [Stephane Bisson](members.md#stephane-bisson) (EOS Nation Co-founder)
+      - [Stephane Bisson](members.md#stephane-bisson) - EOS Nation Co-founder
     - Sherbrooke
-      - [Vincent Grenier](members.md#vincent-grenier) (EOS Nation Co-founder)
+      - [Vincent Grenier](members.md#vincent-grenier) - EOS Nation Co-founder
 > USA
   - Texas
     - Austin
-      - [David Requenez](members.md#david-requenez) (EOS Nation Co-founder)
+      - [David Requenez](members.md#david-requenez) - EOS Nation Co-founder
 
 
 ## I want to be an EOS Nation Ambassador!
