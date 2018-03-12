@@ -51,4 +51,4 @@ Candidates will forgo a public review process of their social media profiles & b
   - [ ] GitHub
   - [ ] Telegram
   
-## **[Join the team of Ambassadors!](https://github.com/EOS-Nation/Ambassadors/issues/new)**
+## **[Join the team of EOS Nation Ambassadors!](https://github.com/EOS-Nation/Ambassadors/issues/new)**
