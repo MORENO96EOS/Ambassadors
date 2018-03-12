@@ -1,4 +1,4 @@
-# Members
+# Co-Founders
 
 ## Vincent Grenier
 ### Sherbrooke, QC
@@ -217,25 +217,3 @@ In my free time, I like to learn about Austrian Economics, technology (especiall
 Like our friend Dan Larimer, I’d like to dedicate myself to creating free market solutions to secure life, liberty and property.
 
 I recently started the [EOS Toronto meetup](http://meetup.com/eos-toronto/) and have been working with bluejays from EOS Go and some others to grow that community.</p>
-
-## Jan Langheimer
-### Toronto, ON
-
-<img src="https://pbs.twimg.com/profile_images/943726591745581056/dkzuBGFx_400x400.jpg" height="150px" width="150px" />
-
-### Role
-
-- ⭐️ EOS Toronto Meetup Co-Host 
-- ⭐️ [EOSindex.io](https://eosindex.io) Founder
-
-### SocialMedia
-
-- Steemit
-- LinkedIn
-- [Twitter](https://twitter.com/JanLghr)
-- [GitHub](https://github.com/pingustar)
-- [Telegram](https://t.me/pinguSTAR)
-
-### Bio
-
-Born and raised in Germany. In Toronto since 2016. Web Developer. Ethereum Miner. DevOps. EOS Fanboy.
